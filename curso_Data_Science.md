@@ -290,5 +290,3 @@ DICT.values() -> ['1982','1980','1980','2007']
 
 ## Modulo 3: Python programming fundamentals
 
-bla bla bla
-hola 
